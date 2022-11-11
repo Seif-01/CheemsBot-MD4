@@ -56,8 +56,8 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.vcardowner = ['+212689265072'] //ur owner number
 global.ownername = " 𝕊𝕖𝕚𝕗 𝔹𝕠𝕥 🍜🦊 " //ur owner name
-global.socialm = "GitHub: Elgazar" //ur github or insta name
-global.location = "Egypt, Cairo, Aizawl" //ur location
+global.socialm = "GitHub: Seif-01" //ur github or insta name
+global.location = "Morocco, Essaouira / Tangier" //ur location
 
 //bot bomdy 
 global.owner = ['+212689265072']
@@ -66,7 +66,7 @@ global.botname = ' 𝕊𝕖𝕚𝕗 𝔹𝕠𝕥 🍜🦊 ' //ur bot name
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
 global.packname = " سيف يا حب " //ur sticker watermark packname
-global.author = "⍣01098906252⍣" //ur sticker watermark author
+global.author = "⍣ None ⍣" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
